@@ -7,7 +7,7 @@ This is a minimal full-stack Task Management application developed as part of a 
 - **Database:** PostgreSQL
 - **Authentication:** JWT & bcrypt for secure password storage
 
-The focus of this project is to deliver a clear, functional solution with core features over elaborate UI design.
+The focus of this project is to deliver a clear, functional solution with core features.
 
 ---
 
@@ -18,7 +18,6 @@ The Task Management app provides the following features:
 - **User Authentication:**
   - Register a new user (`POST /auth/register`) with username and password (hashed using bcrypt).
   - Login an existing user (`POST /auth/login`) and receive a JWT for subsequent requests.
-  - Protect tasks endpoints so they can only be accessed by authenticated users.
 
 - **Task Management:**
   - **List Tasks:** `GET /tasks` fetches all tasks associated with the authenticated user.
@@ -33,7 +32,6 @@ The Task Management app provides the following features:
 ## Prerequisites
 
 Before starting, ensure you have installed:
-
 - [Node.js](https://nodejs.org/) (v14+ is recommended)
 - npm
 - [PostgreSQL](https://www.postgresql.org/)
