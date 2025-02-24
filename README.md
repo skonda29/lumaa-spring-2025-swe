@@ -58,10 +58,10 @@ Before running the server, create the necessary tables in your PostgreSQL databa
 
 
 ## Starting the client side
-go to the `client` directory in terminal use the command `npm run start`
+navigate to the `client` directory in terminal use the command `npm run start`
 
 ## Starting the server side
-go to the `server` directory in terminal use the command `npm run start`
+navigate to the `server` directory in terminal use the command `npm run start`
 
 A local host will be assigned and the app runs in the browser
 
