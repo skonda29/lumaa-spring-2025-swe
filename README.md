@@ -71,7 +71,3 @@ https://drive.google.com/file/d/1Rv0335mZnzbH_KdACiurjVrBQDtmp305/view?usp=shari
 ## Salary expectations
 $5000-6000 per month 40 hours a week.
 
-
-## Salary Expectations per month
-$5000-6000 per month - 40 hours a week.
-
